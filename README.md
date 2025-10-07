@@ -18,22 +18,6 @@ Users can add, edit, check off, and delete tasks — with clean UI, modular comp
 
 ---
 
-## 🧩 Project Structure
 
-src/
-├── components/
-│ ├── CustomForm.jsx
-│ ├── TaskItem.jsx
-│ ├── TaskList.jsx
-│ └── EditForm.jsx
-├── styles/
-│ ├── CustomForm.module.css
-│ 
-│ └── TaskList.module.css
-├── App.jsx
-└── main.jsx
 
-npm Install
-npm run dev
-npm run build
 
